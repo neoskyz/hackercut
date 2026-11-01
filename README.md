@@ -3,8 +3,6 @@ Hackercut
 
 **Hackercut**(Hacker News Shortcut) is a Chrome extension that powers full keyboard navigation of [Hacker News](https://news.ycombinator.com).
 
-You can install this extension from [Chrome Web Store](https://chrome.google.com/webstore/detail/hackercut/dmiimkldokblocpmleogaeohkbffnobo). 
-
 After installation, refresh(or open) Hacker News website, press <span style="color:#23A600">*"?"*</span> key to bring up the instructions:
 
 <p align="center">
